@@ -1,0 +1,10 @@
+.page {
+  background: var(--Gray-200, #e5e7eb);
+  max-width: 1920px;
+  min-width: 320px;
+  display: block;
+  font-family: Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0 auto;
+}

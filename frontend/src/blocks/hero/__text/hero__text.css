@@ -1,0 +1,10 @@
+.hero__text {
+  color: var(--Gray-900, #111827);
+  font-family: Formular;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 140% */
+  margin-top: 11px;
+  margin-bottom: 16px;
+}

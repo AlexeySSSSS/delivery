@@ -1,0 +1,12 @@
+.header__call {
+  color: var(--Gray-900, #111827);
+
+  /* 2xl/light */
+  font-family: Formular;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 32px; /* 133.333% */
+  margin: 0;
+  margin-top: 3px;
+}

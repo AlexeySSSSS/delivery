@@ -1,0 +1,8 @@
+.header__up {
+  display: flex;
+  justify-content: space-between;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: calc(100% - 385px);
+  padding-top: 25px;
+}

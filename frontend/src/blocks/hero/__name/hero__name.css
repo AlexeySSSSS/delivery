@@ -1,0 +1,22 @@
+.hero__name {
+  border-radius: 4px;
+  border: 2px solid var(--Gray-900, #111827);
+  width: calc(100% - 283px);
+  padding-top: 13px;
+  padding-bottom: 13px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 24px;
+  background: var(--Gray-50, #f9fafb);
+}
+
+.hero__name::placeholder {
+  color: var(--Gray-400, #9ca3af);
+
+  /* base/regular */
+  font-family: Formular;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+}

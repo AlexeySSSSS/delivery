@@ -1,0 +1,4 @@
+.reviews__box {
+  display: flex;
+  justify-content: space-between;
+}

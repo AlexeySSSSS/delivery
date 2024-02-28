@@ -1,0 +1,11 @@
+.footer__call {
+  /* 2xl/regular */
+  color: rgb(249, 250, 251);
+  font-family: Formular;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin: 4px 0 0 0;
+}

@@ -1,0 +1,9 @@
+.benefits {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: calc(100% - 385px);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 72px;
+}

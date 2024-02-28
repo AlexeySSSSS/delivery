@@ -1,0 +1,8 @@
+.hero__calc {
+  display: flex;
+  flex-direction: column;
+  width: calc(100% + 74px);
+  border-radius: 16px;
+  background: var(--Gray-50, #f9fafb);
+  margin-top: 71px;
+}

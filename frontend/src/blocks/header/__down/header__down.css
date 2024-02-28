@@ -1,0 +1,9 @@
+.header__down {
+  display: flex;
+  justify-content: space-between;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: calc(100% - 385px);
+  padding-top: 24px;
+  padding-bottom: 24px;
+}

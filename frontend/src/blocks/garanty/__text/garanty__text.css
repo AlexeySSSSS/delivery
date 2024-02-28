@@ -1,0 +1,11 @@
+.garanty__text {
+  /* base/regular */
+  color: rgb(17, 24, 39);
+  font-family: Formular;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  max-width: 756px;
+  margin: 12px auto 0 auto;
+  text-align: center;
+}

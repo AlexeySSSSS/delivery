@@ -1,0 +1,4 @@
+.footer__box {
+  max-width: calc(100% - 385px);
+  margin: 0 auto 0 auto;
+}

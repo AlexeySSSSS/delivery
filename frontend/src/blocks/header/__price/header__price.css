@@ -1,0 +1,6 @@
+.header__price {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  border-right: solid 2px rgba(167, 139, 250, 1);
+}

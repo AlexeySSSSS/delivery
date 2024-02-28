@@ -1,0 +1,6 @@
+.hero__block {
+  display: grid;
+  grid-template-columns: minmax(100px, 236px) minmax(100px, 236px);
+  width: calc(100% - 260px);
+  gap: 25px;
+}

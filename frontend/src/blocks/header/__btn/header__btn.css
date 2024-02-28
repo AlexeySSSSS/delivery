@@ -1,0 +1,19 @@
+.header__btn {
+  border: none;
+  background: none;
+  font-family: Formular;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px; /* 150% */
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 0;
+  padding-right: 0;
+  cursor: pointer;
+  color: var(--Gray-900, #111827);
+}
+
+.header__btn:hover {
+  color: var(--Purple-500, #8b5cf6);
+}

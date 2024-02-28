@@ -1,0 +1,6 @@
+.reviews {
+  display: flex;
+  margin: 47px auto 0 auto;
+  max-width: calc(100% - 385px);
+  justify-content: space-around;
+}

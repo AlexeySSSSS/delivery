@@ -1,0 +1,4 @@
+.header__btn_active {
+  color: var(--Purple-500, #8b5cf6);
+  border-bottom: dashed 2px #8b5cf6;
+}

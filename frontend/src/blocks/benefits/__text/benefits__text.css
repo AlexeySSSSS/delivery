@@ -1,0 +1,9 @@
+.benefits__text {
+  /* sm/regular */
+  color: rgb(0, 0, 0);
+  font-family: Formular;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  margin: 0;
+}

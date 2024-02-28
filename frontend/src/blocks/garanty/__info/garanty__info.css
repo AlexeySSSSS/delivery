@@ -1,0 +1,6 @@
+.garanty__info {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(150px, 366px));
+  column-gap: 24px;
+  margin: 23px 0 0 0;
+}

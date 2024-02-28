@@ -1,0 +1,9 @@
+.reviews__prgf {
+  /* 2xl/light */
+  color: rgb(107, 114, 128);
+  font-family: Formular;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 32px;
+  margin: 30px 0 0 45px;
+}

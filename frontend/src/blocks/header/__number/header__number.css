@@ -1,0 +1,11 @@
+.header__number {
+  color: var(--Gray-900, #111827);
+
+  /* 4xl/black */
+  font-family: Formular;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 40px; /* 111.111% */
+  margin: 0;
+}

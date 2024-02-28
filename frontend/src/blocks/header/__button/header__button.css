@@ -1,0 +1,4 @@
+.header__button {
+  display: flex;
+  gap: 25px;
+}

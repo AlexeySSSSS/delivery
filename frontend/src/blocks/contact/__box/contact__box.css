@@ -1,0 +1,6 @@
+.contact__box {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(50px, 236px));
+  column-gap: 24px;
+  row-gap: 26px;
+}

@@ -1,0 +1,13 @@
+.hero__paragraf {
+  color: var(--Gray-900, #111827);
+  text-align: center;
+  font-family: Formular;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  max-width: 360px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 27px;
+}
